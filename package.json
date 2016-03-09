@@ -80,6 +80,9 @@
       },
       "sqlite3": {
         "host": "https://npm.taobao.org/mirrors"
+      },
+      "fsevents": {
+        "host": "https://npm.taobao.org/mirrors/fsevents"
       }
     }
   }

@@ -20,5 +20,6 @@ describe('test/index.test.js', () => {
     console.log(config);
     assert.deepEqual(Object.keys(config), ['china']);
     assert.equal(config.china.sqlite3.host, 'https://npm.taobao.org/mirrors');
+    assert.equal(config.china.fsevents.host, 'https://npm.taobao.org/mirrors/fsevents');
   });
 });
