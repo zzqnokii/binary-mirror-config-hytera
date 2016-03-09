@@ -78,6 +78,12 @@
       "rabin": {
         "host": "https://npm.taobao.org/mirrors/rabin/v{version}"
       },
+      "v8-debug": {
+        "host": "https://npm.taobao.org/mirrors/node-inspector"
+      },
+      "v8-profiler": {
+        "host": "https://npm.taobao.org/mirrors/node-inspector"
+      },
       "sqlite3": {
         "host": "https://npm.taobao.org/mirrors"
       },
