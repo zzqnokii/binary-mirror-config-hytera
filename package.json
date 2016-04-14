@@ -91,7 +91,7 @@
         "host": "https://npm.taobao.org/mirrors/fsevents"
       },
       "nodegit": {
-        "host": "https://npm.taobao.org/mirrors/nodegit"
+        "host": "https://npm.taobao.org/mirrors/nodegit/v{version}"
       }
     }
   }
