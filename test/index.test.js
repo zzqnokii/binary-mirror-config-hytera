@@ -21,5 +21,6 @@ describe('test/index.test.js', () => {
     assert.deepEqual(Object.keys(config), ['china']);
     assert.equal(config.china.sqlite3.host, 'https://npm.taobao.org/mirrors');
     assert.equal(config.china.fsevents.host, 'https://npm.taobao.org/mirrors/fsevents');
+    assert.equal(config.china['flow-bin'].host, 'https://npm.taobao.org/mirrors/flow/v');
   });
 });

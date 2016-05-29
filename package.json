@@ -92,6 +92,9 @@
       },
       "nodegit": {
         "host": "https://npm.taobao.org/mirrors/nodegit/v{version}"
+      },
+      "flow-bin": {
+        "host": "https://npm.taobao.org/mirrors/flow/v"
       }
     }
   }
