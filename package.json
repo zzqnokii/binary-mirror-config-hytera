@@ -94,7 +94,92 @@
         "host": "https://npm.taobao.org/mirrors/nodegit/v{version}"
       },
       "flow-bin": {
+        "replaceHost": "https://github.com/facebook/flow/releases/download/v",
         "host": "https://npm.taobao.org/mirrors/flow/v"
+      },
+      "jpegtran-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "cwebp-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "zopflipng-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "optipng-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "mozjpeg": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "gifsicle": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "pngquant-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "pngcrush-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "jpeg-recompress-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "advpng-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "pngout-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
+      },
+      "jpegoptim-bin": {
+        "replaceHost": [
+          "https://raw.githubusercontent.com",
+          "https://raw.github.com"
+        ],
+        "host": "https://raw.github.cnpmjs.org"
       }
     }
   }
