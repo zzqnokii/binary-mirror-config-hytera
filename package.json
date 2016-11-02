@@ -10,16 +10,13 @@
     "test": "npm run lint && mocha -t 5000 test/*.test.js",
     "test-cov": "istanbul cover _mocha -- -t 5000 test/*.test.js",
     "lint": "eslint index.js",
-    "ci": "npm run lint && npm run test-cov",
-    "autod": "autod -w --prefix '~'"
+    "ci": "npm run lint && npm run test-cov"
   },
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
-    "autod": "*",
-    "eslint": "2",
-    "eslint-config-egg": "2",
+    "egg-ci": "1",
+    "eslint": "3",
+    "eslint-config-egg": "3",
     "istanbul": "*",
     "mocha": "*"
   },
@@ -40,8 +37,22 @@
   ],
   "author": "fengmk2 <m@fengmk2.com> (http://fengmk2.com)",
   "license": "MIT",
+  "ci": {
+    "version": "4, 6, 7"
+  },
   "mirrors": {
     "china": {
+      "ENVS": {
+        "NODEJS_ORG_MIRROR": "https://npm.taobao.org/mirrors/node",
+        "NVM_NODEJS_ORG_MIRROR": "https://npm.taobao.org/mirrors/node",
+        "NVM_IOJS_ORG_MIRROR": "https://npm.taobao.org/mirrors/iojs",
+        "PHANTOMJS_CDNURL": "https://npm.taobao.org/mirrors/phantomjs",
+        "CHROMEDRIVER_CDNURL": "https://tnpm-hz.oss-cn-hangzhou.aliyuncs.com/dist/chromedriver",
+        "OPERADRIVER_CDNURL": "https://npm.taobao.org/mirrors/operadriver",
+        "ELECTRON_MIRROR": "https://npm.taobao.org/mirrors/electron/",
+        "SASS_BINARY_SITE": "https://npm.taobao.org/mirrors/node-sass",
+        "FLOW_BINARY_MIRROR": "https://github.com/facebook/flow/releases/download/v"
+      },
       "leveldown": {
         "host": "https://npm.taobao.org/mirrors/leveldown/v{version}"
       },
