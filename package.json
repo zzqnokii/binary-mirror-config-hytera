@@ -159,7 +159,12 @@
           "https://raw.githubusercontent.com",
           "https://raw.github.com"
         ],
-        "host": "https://raw.github.cnpmjs.org"
+        "host": "https://raw.github.cnpmjs.org",
+        "replaceHostMap": {
+          "https://raw.githubusercontent.com": "https://raw.github.cnpmjs.org",
+          "https://raw.github.com": "https://raw.github.cnpmjs.org",
+          "https://github.com": "https://github.com.cnpmjs.org"
+        }
       },
       "pngcrush-bin": {
         "replaceHost": [
