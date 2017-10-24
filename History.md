@@ -1,4 +1,10 @@
 
+1.6.0 / 2017-10-25
+==================
+
+**features**
+  * [[`57a5279`](http://github.com/cnpm/binary-mirror-config/commit/57a52794ca205ff8f8b8c9f525acf571b41c2bb6)] - feat: add utf-8-validate (fengmk2 <<fengmk2@gmail.com>>)
+
 1.5.0 / 2017-03-29
 ==================
 
