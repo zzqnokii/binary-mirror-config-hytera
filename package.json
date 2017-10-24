@@ -53,6 +53,9 @@
         "SASS_BINARY_SITE": "https://npm.taobao.org/mirrors/node-sass",
         "FLOW_BINARY_MIRROR": "https://github.com/facebook/flow/releases/download/v"
       },
+      "utf-8-validate": {
+        "host": "https://npm.taobao.org/mirrors/utf-8-validate/v{version}"
+      },
       "leveldown": {
         "host": "https://npm.taobao.org/mirrors/leveldown/v{version}"
       },
