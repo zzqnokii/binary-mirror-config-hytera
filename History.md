@@ -1,4 +1,10 @@
 
+1.7.0 / 2017-11-03
+==================
+
+**features**
+  * [[`5008633`](http://github.com/cnpm/binary-mirror-config/commit/50086339b1e51cda65b0210f1b2f177ec409b6cb)] - feat: add PUPPETEER_DOWNLOAD_HOST=https://storage.googleapis.com.cnpmjs.org (#2) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.6.0 / 2017-10-25
 ==================
 
