@@ -1,4 +1,10 @@
 
+1.7.1 / 2017-11-18
+==================
+
+**fixes**
+  * [[`5162ea5`](http://github.com/cnpm/binary-mirror-config/commit/5162ea5db0f0cc1015f67811f2bc8ec7b3283951)] - fix: use https://npm.taobao.org/mirrors for PUPPETEER_DOWNLOAD_HOST (fengmk2 <<fengmk2@gmail.com>>)
+
 1.7.0 / 2017-11-03
 ==================
 
