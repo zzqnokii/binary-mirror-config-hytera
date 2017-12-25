@@ -1,4 +1,10 @@
 
+1.7.3 / 2017-12-25
+==================
+
+**fixes**
+  * [[`a5bd3fb`](http://github.com/cnpm/binary-mirror-config/commit/a5bd3fbbea96e62d6448b04129ebefc15f43c7bf)] - fix: use https (fengmk2 <<fengmk2@gmail.com>>)
+
 1.7.2 / 2017-12-25
 ==================
 
