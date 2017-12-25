@@ -1,4 +1,10 @@
 
+1.7.2 / 2017-12-25
+==================
+
+**fixes**
+  * [[`86713e3`](http://github.com/cnpm/binary-mirror-config/commit/86713e3f349c972138671087bb12c07c9a4fa0d6)] - fix: PUPPETEER_DOWNLOAD_HOST unsupport 302 redirect (fengmk2 <<fengmk2@gmail.com>>)
+
 1.7.1 / 2017-11-18
 ==================
 
