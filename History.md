@@ -1,4 +1,10 @@
 
+1.8.0 / 2018-04-08
+==================
+
+**features**
+  * [[`d53a072`](http://github.com/cnpm/binary-mirror-config/commit/d53a0721c52f734022643e36bd7d61b81c28fb8e)] - feat: support nwjs mirror (#3) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.7.3 / 2017-12-25
 ==================
 
