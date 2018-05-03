@@ -1,4 +1,10 @@
 
+1.9.0 / 2018-05-04
+==================
+
+**features**
+  * [[`6d57c88`](http://github.com/cnpm/binary-mirror-config/commit/6d57c885d325f96269e6ca1497b6931ba0e4ce32)] - feat: use cdn url directly (#4) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.8.0 / 2018-04-08
 ==================
 
