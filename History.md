@@ -1,4 +1,10 @@
 
+1.10.0 / 2018-06-21
+==================
+
+**features**
+  * [[`5bb8f25`](http://github.com/cnpm/binary-mirror-config/commit/5bb8f25ad61e3bc9c275e59b7973c0b4f5c8b3d9)] - feat: mirror cypress (fengmk2 <<fengmk2@gmail.com>>)
+
 1.9.0 / 2018-05-04
 ==================
 
