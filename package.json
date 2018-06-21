@@ -54,6 +54,9 @@
         "NWJS_URLBASE": "https://cdn.npm.taobao.org/dist/nwjs/v",
         "PUPPETEER_DOWNLOAD_HOST": "https://cdn.npm.taobao.org/dist"
       },
+      "cypress": {
+        "host": "https://cdn.npm.taobao.org/dist/cypress"
+      },
       "utf-8-validate": {
         "host": "https://cdn.npm.taobao.org/dist/utf-8-validate/v{version}"
       },
