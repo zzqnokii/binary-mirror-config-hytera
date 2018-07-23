@@ -1,4 +1,10 @@
 
+1.11.0 / 2018-07-23
+==================
+
+**features**
+  * [[`3c3be3a`](http://github.com/cnpm/binary-mirror-config/commit/3c3be3a955ca6cf232bf4f881adfa4678266ad92)] - feat: mirror jpegtran-bin instead of proxy (#5) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.10.0 / 2018-06-21
 ==================
 
