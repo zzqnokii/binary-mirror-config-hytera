@@ -1,4 +1,10 @@
 
+1.13.0 / 2018-07-25
+==================
+
+**features**
+  * [[`5aad22c`](http://github.com/cnpm/binary-mirror-config/commit/5aad22cd17ead88ff5f4a753995c054fce1ed61b)] - feat: mirrro all iamgemin bins (#6) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.12.0 / 2018-07-25
 ==================
 
