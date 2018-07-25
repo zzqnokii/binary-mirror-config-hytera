@@ -1,4 +1,10 @@
 
+1.12.0 / 2018-07-25
+==================
+
+**features**
+  * [[`76ad0f0`](http://github.com/cnpm/binary-mirror-config/commit/76ad0f0924c5e350dc86169a6de4e7ca2535c080)] - feat: mirror pngquant bin (fengmk2 <<fengmk2@gmail.com>>)
+
 1.11.0 / 2018-07-23
 ==================
 
