@@ -1,4 +1,10 @@
 
+1.14.1 / 2018-07-30
+==================
+
+**fixes**
+  * [[`aeff8d2`](http://github.com/cnpm/binary-mirror-config/commit/aeff8d2c59486560f3aa404e090520c7dfb003b4)] - fix: use npm.taobao.org instead of cnpmjs.org (fengmk2 <<fengmk2@gmail.com>>)
+
 1.14.0 / 2018-07-30
 ==================
 
