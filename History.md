@@ -1,4 +1,10 @@
 
+1.14.2 / 2018-07-30
+==================
+
+**fixes**
+  * [[`288d7f1`](http://github.com/cnpm/binary-mirror-config/commit/288d7f155758572dd2fac3c07129be8328e78559)] - fix: pngquant-bin typo (fengmk2 <<fengmk2@gmail.com>>)
+
 1.14.1 / 2018-07-30
 ==================
 
