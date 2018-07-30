@@ -1,4 +1,10 @@
 
+1.14.0 / 2018-07-30
+==================
+
+**features**
+  * [[`678dcc3`](http://github.com/cnpm/binary-mirror-config/commit/678dcc3758439b8e4364fd5036fc2208acb73246)] - feat: use npm.taobao.org mirror (fengmk2 <<fengmk2@gmail.com>>)
+
 1.13.0 / 2018-07-25
 ==================
 
