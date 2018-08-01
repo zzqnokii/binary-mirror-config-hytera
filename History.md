@@ -1,4 +1,10 @@
 
+1.15.0 / 2018-08-02
+==================
+
+**features**
+  * [[`ef51a4d`](http://github.com/cnpm/binary-mirror-config/commit/ef51a4d15d1baafe8bb88e15456dd20db1117b38)] - feat: mrror zeromq (fengmk2 <<fengmk2@gmail.com>>)
+
 1.14.2 / 2018-07-30
 ==================
 
