@@ -66,6 +66,9 @@
       "leveldown-hyper": {
         "host": "https://cdn.npm.taobao.org/dist/leveldown-hyper/v{version}"
       },
+      "zeromq": {
+        "host": "https://cdn.npm.taobao.org/dist/zeromq/v{version}"
+      },
       "mknod": {
         "host": "https://cdn.npm.taobao.org/dist/mknod/v{version}"
       },
