@@ -1,4 +1,10 @@
 
+1.16.0 / 2018-09-19
+==================
+
+**features**
+  * [[`d3e2c59`](http://github.com/cnpm/binary-mirror-config/commit/d3e2c5951e1e0a0dc38d8e7d092094d14ac882ff)] - feat: support replaceHostRegExpMap config (#7) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.15.0 / 2018-08-02
 ==================
 
