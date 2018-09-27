@@ -1,4 +1,10 @@
 
+1.17.0 / 2018-09-28
+==================
+
+**features**
+  * [[`def9686`](http://github.com/cnpm/binary-mirror-config/commit/def9686a4800e500954265f58fb6d19c7dadb368)] - feat: add SENTRYCLI_CDNURL (#8) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.16.0 / 2018-09-19
 ==================
 
