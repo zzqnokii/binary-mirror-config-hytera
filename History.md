@@ -1,4 +1,11 @@
 
+1.18.0 / 2018-10-17
+==================
+
+**features**
+  * [[`1b04284`](http://github.com/cnpm/binary-mirror-config/commit/1b04284c0f453fcde59bec21eb1cba6a51a1673b)] - feat: add canvas-prebuilt config (#9) (Zoujie <<yibn2008@gmail.com>>)
+  * [[`def9686`](http://github.com/cnpm/binary-mirror-config/commit/def9686a4800e500954265f58fb6d19c7dadb368)] - feat: add SENTRYCLI_CDNURL (#8) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.17.0 / 2018-09-28
 ==================
 
