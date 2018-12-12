@@ -1,4 +1,10 @@
 
+1.19.0 / 2018-12-13
+==================
+
+**features**
+  * [[`ee21b76`](http://github.com/cnpm/binary-mirror-config/commit/ee21b76961e1a49aee7167d9157242ea8f794a3b)] - feat: add sharp mirror (#10) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.18.0 / 2018-10-17
 ==================
 
