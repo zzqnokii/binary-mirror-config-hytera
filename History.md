@@ -1,4 +1,10 @@
 
+1.20.0 / 2019-03-28
+==================
+
+**features**
+  * [[`4268697`](http://github.com/cnpm/binary-mirror-config/commit/4268697557a1c2a09489f3c9cd6b62a9069c1c41)] - feat: support canvas binary (#11) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.19.0 / 2018-12-13
 ==================
 
