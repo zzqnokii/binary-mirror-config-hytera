@@ -1,4 +1,10 @@
 
+1.20.1 / 2019-08-04
+==================
+
+**fixes**
+  * [[`679fc7a`](http://github.com/cnpm/binary-mirror-config/commit/679fc7a50924d69eaa4290043853100bdd44e47f)] - fix: add cypress platforms config (fengmk2 <<fengmk2@gmail.com>>)
+
 1.20.0 / 2019-03-28
 ==================
 
