@@ -1,4 +1,10 @@
 
+1.20.2 / 2019-08-04
+==================
+
+**fixes**
+  * [[`295970e`](http://github.com/cnpm/binary-mirror-config/commit/295970e6d9d1e3eadfd8db5eaf693a28bce3e7cb)] - fix: cypress darwin-x64 typo (fengmk2 <<fengmk2@gmail.com>>)
+
 1.20.1 / 2019-08-04
 ==================
 
