@@ -1,4 +1,10 @@
 
+1.20.3 / 2019-08-05
+==================
+
+**fixes**
+  * [[`1db3ed8`](http://github.com/cnpm/binary-mirror-config/commit/1db3ed88d1cc5dc350f2ba44b52f8a490fa9de8e)] - fix: should use new newPlatforms property (fengmk2 <<fengmk2@gmail.com>>)
+
 1.20.2 / 2019-08-04
 ==================
 
