@@ -70,7 +70,7 @@
           "mac": "darwin-x64",
           "win": "win32-ia32",
           "linux64": "linux-x64",
-          "darwin": "darwin-64",
+          "darwin": "darwin-x64",
           "win32": "win32-ia32",
           "linux": "linux-x64",
           "darwin-x64": "darwin-x64",
