@@ -1,4 +1,10 @@
 
+1.21.0 / 2019-11-18
+==================
+
+**features**
+  * [[`661bcd9`](http://github.com/cnpm/binary-mirror-config/commit/661bcd92015b878e301079edc195fab93a7b20f2)] - feat: add @swc/core binary mirror site (#12) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.20.3 / 2019-08-05
 ==================
 
