@@ -131,6 +131,9 @@
       "sqlite3": {
         "host": "https://cdn.npm.taobao.org/dist"
       },
+      "@journeyapps/sqlcipher": {
+        "host": "https://npm.taobao.org/mirrors/sqlcipher"
+      },
       "grpc": {
         "host": "https://cdn.npm.taobao.org/dist",
         "remote_path": "{name}/v{version}"
