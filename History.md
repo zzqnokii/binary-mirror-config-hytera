@@ -1,4 +1,10 @@
 
+1.22.1 / 2020-02-25
+==================
+
+**fixes**
+  * [[`55d4fda`](http://github.com/cnpm/binary-mirror-config/commit/55d4fdaf2903f881b65e42a74c01629074785f2b)] - fix: sqlcipher url (fengmk2 <<fengmk2@gmail.com>>)
+
 1.22.0 / 2020-02-25
 ==================
 
