@@ -1,4 +1,10 @@
 
+1.22.0 / 2020-02-25
+==================
+
+**features**
+  * [[`a5d09bf`](http://github.com/cnpm/binary-mirror-config/commit/a5d09bfbe16d8db581aa1764d5e8aa815c5e8aae)] - feat: support @journeyapps/sqlcipher (fengmk2 <<fengmk2@gmail.com>>)
+
 1.21.0 / 2019-11-18
 ==================
 
