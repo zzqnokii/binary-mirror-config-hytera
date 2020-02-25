@@ -132,7 +132,7 @@
         "host": "https://cdn.npm.taobao.org/dist"
       },
       "@journeyapps/sqlcipher": {
-        "host": "https://npm.taobao.org/mirrors/sqlcipher"
+        "host": "https://cdn.npm.taobao.org/dist"
       },
       "grpc": {
         "host": "https://cdn.npm.taobao.org/dist",
