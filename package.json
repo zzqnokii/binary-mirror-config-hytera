@@ -49,6 +49,7 @@
         "CHROMEDRIVER_CDNURL": "https://cdn.npm.taobao.org/dist/chromedriver",
         "OPERADRIVER_CDNURL": "https://cdn.npm.taobao.org/dist/operadriver",
         "ELECTRON_MIRROR": "https://cdn.npm.taobao.org/dist/electron/",
+        "ELECTRON_BUILDER_BINARIES_MIRROR": "https://npm.taobao.org/mirrors/electron-builder-binaries/",
         "SASS_BINARY_SITE": "https://cdn.npm.taobao.org/dist/node-sass",
         "SWC_BINARY_SITE": "https://cdn.npm.taobao.org/dist/node-swc",
         "FLOW_BINARY_MIRROR": "https://github.com/facebook/flow/releases/download/v",
