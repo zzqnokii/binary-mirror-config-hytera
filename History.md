@@ -1,4 +1,10 @@
 
+1.23.0 / 2020-04-26
+==================
+
+**features**
+  * [[`17672a8`](http://github.com/cnpm/binary-mirror-config/commit/17672a80fa7c4f86f835b1a7bf29e6c0d9c87de4)] - feat: add ELECTRON_BUILDER_BINARIES_MIRROR (fengmk2 <<fengmk2@gmail.com>>)
+
 1.22.1 / 2020-02-25
 ==================
 
