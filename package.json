@@ -37,7 +37,7 @@
   "author": "fengmk2 <m@fengmk2.com> (http://fengmk2.com)",
   "license": "MIT",
   "ci": {
-    "version": "4, 6, 8, 10"
+    "version": "4, 6, 8, 10, 12, 14"
   },
   "mirrors": {
     "china": {
@@ -83,6 +83,10 @@
       },
       "utf-8-validate": {
         "host": "https://cdn.npm.taobao.org/dist/utf-8-validate/v{version}"
+      },
+      "xprofiler": {
+        "remote_path": "./xprofiler/v{version}/",
+        "host": "https://cdn.npm.taobao.org/dist"
       },
       "leveldown": {
         "host": "https://cdn.npm.taobao.org/dist/leveldown/v{version}"
