@@ -1,4 +1,10 @@
 
+1.24.0 / 2020-06-12
+==================
+
+**features**
+  * [[`1737e4e`](http://github.com/cnpm/binary-mirror-config/commit/1737e4ebb731956b9dfeff9666f0e514262f565c)] - feat: support mirror xprofiler (fengmk2 <<fengmk2@gmail.com>>)
+
 1.23.0 / 2020-04-26
 ==================
 
