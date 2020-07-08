@@ -58,6 +58,9 @@
         "SENTRYCLI_CDNURL": "https://cdn.npm.taobao.org/dist/sentry-cli",
         "npm_config_sharp_binary_host": "https://cdn.npm.taobao.org/dist/sharp"
       },
+      "@ali/s2": {
+        "host": "https://cdn.npm.taobao.org/dist/looksgood-s2"
+      },
       "sharp": {
         "replaceHostFiles": [
           "install/libvips.js"
