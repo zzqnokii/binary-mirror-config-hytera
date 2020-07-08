@@ -1,4 +1,10 @@
 
+1.25.0 / 2020-07-08
+==================
+
+**features**
+  * [[`561661d`](http://github.com/cnpm/binary-mirror-config/commit/561661d76fac6ebca8eeadf9d6ffa7fae6ab86c6)] - feat: add mirror host for @ali/s2 (fengmk2 <<fengmk2@gmail.com>>)
+
 1.24.0 / 2020-06-12
 ==================
 
