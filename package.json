@@ -75,6 +75,9 @@
         ],
         "replaceHostRegExpMap": {
           "https://storage\\.googleapis\\.com/": "https://cdn.npm.taobao.org/dist/"
+        },
+        "replaceHostMap": {
+          "https://storage.googleapis.com/": "https://cdn.npm.taobao.org/dist/"
         }
       },
       "cypress": {
