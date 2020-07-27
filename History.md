@@ -1,4 +1,10 @@
 
+1.26.2 / 2020-07-27
+==================
+
+**fixes**
+  * [[`0e70600`](http://github.com/cnpm/binary-mirror-config/commit/0e70600f725f29366a397e040706bb1eb85f3c2a)] - fix: add pre-built-binary host (fengmk2 <<fengmk2@gmail.com>>)
+
 1.26.1 / 2020-07-27
 ==================
 
