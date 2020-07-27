@@ -1,4 +1,10 @@
 
+1.26.1 / 2020-07-27
+==================
+
+**fixes**
+  * [[`b18ec14`](http://github.com/cnpm/binary-mirror-config/commit/b18ec1425b70835429038652e6fa8332b30c34ee)] - fix: need replaceHostMap on replaceHostFiles (fengmk2 <<fengmk2@gmail.com>>)
+
 1.26.0 / 2020-07-27
 ==================
 
