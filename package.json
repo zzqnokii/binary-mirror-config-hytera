@@ -70,6 +70,7 @@
         }
       },
       "@tensorflow/tfjs-node": {
+        "host": "https://cdn.npm.taobao.org/dist/tf-builds/pre-built-binary",
         "replaceHostFiles": [
           "scripts/install.js"
         ],
