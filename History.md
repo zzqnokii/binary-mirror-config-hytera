@@ -1,4 +1,10 @@
 
+1.26.0 / 2020-07-27
+==================
+
+**features**
+  * [[`c8305b5`](http://github.com/cnpm/binary-mirror-config/commit/c8305b54fde17d35b03fe7e734a4340faa4a72e5)] - feat: support mirror @tensorflow/tfjs-node (fengmk2 <<fengmk2@gmail.com>>)
+
 1.25.0 / 2020-07-08
 ==================
 
