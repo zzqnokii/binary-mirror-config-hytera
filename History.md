@@ -1,4 +1,10 @@
 
+1.26.3 / 2020-07-27
+==================
+
+**fixes**
+  * [[`fa0442d`](http://github.com/cnpm/binary-mirror-config/commit/fa0442d77e37df26e618f904ec089cb762a5832e)] - fix: use replace host in package.json (fengmk2 <<fengmk2@gmail.com>>)
+
 1.26.2 / 2020-07-27
 ==================
 
