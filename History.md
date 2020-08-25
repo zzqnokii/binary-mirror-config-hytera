@@ -1,4 +1,10 @@
 
+1.27.0 / 2020-08-25
+==================
+
+**features**
+  * [[`4b005b4`](http://github.com/cnpm/binary-mirror-config/commit/4b005b4bb34b313a73261031552e90c1fbbdd0ad)] - feat: add robotjs binary custom url (fengmk2 <<fengmk2@gmail.com>>)
+
 1.26.3 / 2020-07-27
 ==================
 
