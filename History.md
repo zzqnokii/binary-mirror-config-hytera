@@ -1,4 +1,10 @@
 
+1.28.0 / 2020-11-19
+==================
+
+**features**
+  * [[`8c40c83`](http://github.com/cnpm/binary-mirror-config/commit/8c40c8326027e2f6fe6ad1f5be1ea9db548225dd)] - feat: add sharp's env npm_config_sharp_libvips_binary_host to package.json (#13) (WEN-JY <<36290410+WEN-JY@users.noreply.github.com>>)
+
 1.27.0 / 2020-08-25
 ==================
 
