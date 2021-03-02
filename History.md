@@ -1,4 +1,13 @@
 
+1.29.0 / 2021-03-02
+==================
+
+**fixes**
+  * [[`c002540`](http://github.com/cnpm/binary-mirror-config/commit/c0025406dddf6dbaa7c145cbc03341f26aa475e9)] - fix: delete canvas mirror (#14) (killa <<killa123@126.com>>)
+
+**others**
+  * [[`5a9c427`](http://github.com/cnpm/binary-mirror-config/commit/5a9c4275bfb153143a7dc17f0efe74224d272630)] - test: only run on github action (#15) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.28.0 / 2020-11-19
 ==================
 
