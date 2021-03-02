@@ -1,4 +1,10 @@
 
+1.29.1 / 2021-03-02
+==================
+
+**others**
+  * [[`f6221f4`](http://github.com/cnpm/binary-mirror-config/commit/f6221f46c21980600833a0495491d3a8e043576b)] - Revert "fix: delete canvas mirror (#14)" (#16) (killa <<killa123@126.com>>)
+
 1.29.0 / 2021-03-02
 ==================
 
