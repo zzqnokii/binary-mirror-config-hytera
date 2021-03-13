@@ -1,4 +1,10 @@
 
+1.30.0 / 2021-03-13
+==================
+
+**features**
+  * [[`7c25744`](http://github.com/cnpm/binary-mirror-config/commit/7c25744139d0478d75174fce05d5d6ff336ada5c)] - feat: add nodejieba mirror (#17) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.29.1 / 2021-03-02
 ==================
 
