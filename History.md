@@ -1,4 +1,10 @@
 
+1.31.0 / 2021-08-20
+==================
+
+**features**
+  * [[`13ae5aa`](http://github.com/cnpm/binary-mirror-config/commit/13ae5aaf2ead75cc9e930b793d192e5030e90d55)] - feat: add argon2 (#18) (一丝 <<yisibl@users.noreply.github.com>>)
+
 1.30.0 / 2021-03-13
 ==================
 
