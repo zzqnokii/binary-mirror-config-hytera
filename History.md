@@ -1,4 +1,10 @@
 
+1.32.0 / 2021-09-08
+==================
+
+**features**
+  * [[`bf52763`](http://github.com/cnpm/binary-mirror-config/commit/bf52763caf4775a783af82931ec73b5e5b8f8fb6)] - feat: add ali-zeromq mirror (#19) (ken <<122603020@qq.com>>)
+
 1.31.0 / 2021-08-20
 ==================
 
