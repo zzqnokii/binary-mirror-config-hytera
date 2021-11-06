@@ -1,6 +1,6 @@
 {
   "name": "binary-mirror-config",
-  "version": "1.32.0",
+  "version": "1.33.0",
   "description": "Binary mirror config for prebuild and node-pre-gyp",
   "main": "index.js",
   "files": [
@@ -10,14 +10,16 @@
     "test": "npm run lint && egg-bin test",
     "test-cov": "egg-bin cov",
     "lint": "eslint test index.js",
-    "ci": "npm run lint && npm run test-cov"
+    "ci": "npm run lint && npm run test-cov",
+    "contributor": "git-contributor"
   },
   "dependencies": {},
   "devDependencies": {
     "egg-bin": "^4.15.0",
     "egg-ci": "1",
     "eslint": "7",
-    "eslint-config-egg": "9"
+    "eslint-config-egg": "9",
+    "git-contributor": "^1.0.10"
   },
   "homepage": "https://github.com/cnpm/binary-mirror-config",
   "repository": {

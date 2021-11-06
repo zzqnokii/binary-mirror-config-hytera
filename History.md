@@ -1,4 +1,10 @@
 
+1.33.0 / 2021-11-07
+==================
+
+**features**
+  * [[`9e1e723`](http://github.com/cnpm/binary-mirror-config/commit/9e1e723c2c852864aafa746f5445dd9c83f03062)] - feat: change domain to npmmirror.com (#20) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.32.0 / 2021-09-08
 ==================
 
