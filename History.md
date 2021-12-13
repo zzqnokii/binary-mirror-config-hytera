@@ -1,4 +1,11 @@
 
+1.34.0 / 2021-12-13
+==================
+
+**others**
+  * [[`f067a7d`](http://github.com/cnpm/binary-mirror-config/commit/f067a7d7507bda83e2715889163516f26c4339ed)] - 📖 DOC: Auto update contributors (fengmk2 <<fengmk2@gmail.com>>)
+  * [[`9746153`](http://github.com/cnpm/binary-mirror-config/commit/97461533714a052770ab17657d020198300a6eb0)] - 📦 NEW: download saucectl binary from China Mirror (fengmk2 <<fengmk2@gmail.com>>)
+
 1.33.0 / 2021-11-07
 ==================
 

@@ -5,6 +5,7 @@ binary-mirror-config
 [![Node.js CI](https://github.com/cnpm/binary-mirror-config/actions/workflows/nodejs.yml/badge.svg)](https://github.com/cnpm/binary-mirror-config/actions/workflows/nodejs.yml)
 [![Test coverage][codecov-image]][codecov-url]
 [![npm download][download-image]][download-url]
+[![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)
 
 [npm-image]: https://img.shields.io/npm/v/binary-mirror-config.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/binary-mirror-config
