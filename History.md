@@ -1,4 +1,10 @@
 
+1.34.1 / 2022-01-08
+==================
+
+**fixes**
+  * [[`8a7a820`](http://github.com/cnpm/binary-mirror-config/commit/8a7a82091cfe0aeaf9911791163b5ecf48f0feff)] - fix: @journeyapps/sqlcipher host use https://npmmirror.com/mirrors (#22) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.34.0 / 2021-12-13
 ==================
 
