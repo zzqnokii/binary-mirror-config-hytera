@@ -1,4 +1,10 @@
 
+1.35.0 / 2022-01-11
+==================
+
+**others**
+  * [[`953b203`](http://github.com/cnpm/binary-mirror-config/commit/953b20353ca69705feffd4e517489f2c33f7558f)] - 📦 NEW: Mirror node-gdal-async (#23) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.34.1 / 2022-01-08
 ==================
 
