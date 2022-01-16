@@ -1,4 +1,10 @@
 
+1.36.0 / 2022-01-16
+==================
+
+**others**
+  * [[`6f89d3f`](http://github.com/cnpm/binary-mirror-config/commit/6f89d3f0d30a5992148967c3d16b96506024b019)] - 👌 IMPROVE: Remove un-mirror binary (#24) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.35.0 / 2022-01-11
 ==================
 
