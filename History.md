@@ -1,4 +1,10 @@
 
+1.37.0 / 2022-02-03
+==================
+
+**features**
+  * [[`e69cc46`](http://github.com/cnpm/binary-mirror-config/commit/e69cc4650c7e3a5d43fa6e33dbbdaa8a502c0d87)] - feat: use the latest mirror cdn url (#25) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.36.0 / 2022-01-16
 ==================
 
