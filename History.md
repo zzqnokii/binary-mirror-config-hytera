@@ -1,4 +1,10 @@
 
+1.37.1 / 2022-02-03
+==================
+
+**others**
+  * [[`a27967b`](http://github.com/cnpm/binary-mirror-config/commit/a27967b2b3d334bf89b5602c08dfb4ffef080099)] - 🐛 FIX: canvas host hotfix (fengmk2 <<fengmk2@gmail.com>>)
+
 1.37.0 / 2022-02-03
 ==================
 
