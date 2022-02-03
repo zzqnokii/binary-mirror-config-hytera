@@ -132,7 +132,7 @@
         "host": "https://cdn.npmmirror.com/binaries/nodejieba"
       },
       "canvas": {
-        "host": "https://cdn.npmmirror.com/binaries/node-canvas-prebuilt"
+        "host": "https://cdn.npmmirror.com/binaries/canvas"
       },
       "flow-bin": {
         "replaceHost": "https://github.com/facebook/flow/releases/download/v",
