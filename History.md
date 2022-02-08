@@ -1,4 +1,10 @@
 
+1.38.0 / 2022-02-08
+==================
+
+**others**
+  * [[`9b7ec7c`](http://github.com/cnpm/binary-mirror-config/commit/9b7ec7c30a0fd280a27d41df36605c776a1bce15)] - 👌 IMPROVE: phantomjs use new cdn mirror url (fengmk2 <<fengmk2@gmail.com>>)
+
 1.37.1 / 2022-02-03
 ==================
 
