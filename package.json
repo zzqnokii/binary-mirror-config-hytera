@@ -46,7 +46,7 @@
       "ENVS": {
         "NODEJS_ORG_MIRROR": "https://cdn.npmmirror.com/binaries/node",
         "NVM_NODEJS_ORG_MIRROR": "https://cdn.npmmirror.com/binaries/node",
-        "PHANTOMJS_CDNURL": "https://oss.npmmirror.com/dist/phantomjs",
+        "PHANTOMJS_CDNURL": "https://cdn.npmmirror.com/binaries/phantomjs",
         "CHROMEDRIVER_CDNURL": "https://cdn.npmmirror.com/binaries/chromedriver",
         "OPERADRIVER_CDNURL": "https://cdn.npmmirror.com/binaries/operadriver",
         "ELECTRON_MIRROR": "https://cdn.npmmirror.com/binaries/electron/",
