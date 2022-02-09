@@ -7,6 +7,7 @@
     "index.js"
   ],
   "scripts": {
+    "contributor": "git-contributor",
     "test": "npm run lint && egg-bin test",
     "test-cov": "egg-bin cov",
     "lint": "eslint test index.js",
@@ -17,7 +18,8 @@
     "egg-bin": "^4.15.0",
     "egg-ci": "1",
     "eslint": "7",
-    "eslint-config-egg": "9"
+    "eslint-config-egg": "9",
+    "git-contributor": "^1.0.10"
   },
   "homepage": "https://github.com/cnpm/binary-mirror-config",
   "repository": {
