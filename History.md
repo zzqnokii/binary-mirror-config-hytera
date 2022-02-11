@@ -1,4 +1,11 @@
 
+1.39.0 / 2022-02-11
+==================
+
+**others**
+  * [[`dabf054`](http://github.com/cnpm/binary-mirror-config/commit/dabf0547197739e7ad718c3fe01bcdb127bd3859)] - 📦 NEW: Add missing ali-zeromq (fengmk2 <<fengmk2@gmail.com>>)
+  * [[`152d5d9`](http://github.com/cnpm/binary-mirror-config/commit/152d5d93fc32451b9b36e1553c8c4ec1a7cba432)] - 📖 DOC: Use git-contributor instead (fengmk2 <<fengmk2@gmail.com>>)
+
 1.38.0 / 2022-02-08
 ==================
 
