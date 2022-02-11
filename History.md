@@ -1,4 +1,10 @@
 
+1.39.1 / 2022-02-11
+==================
+
+**others**
+  * [[`1dfb4bd`](http://github.com/cnpm/binary-mirror-config/commit/1dfb4bd07f6da69eb5a0e5c1927d63f42ccea9ce)] - 🐛 FIX: cdn domain typo (fengmk2 <<fengmk2@gmail.com>>)
+
 1.39.0 / 2022-02-11
 ==================
 
