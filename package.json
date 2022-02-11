@@ -232,7 +232,7 @@
         "host": "https://cdn.npmmirror.com/binaries/argon2"
       },
       "ali-zeromq": {
-        "host": "https://cdnnpmmirror.com/binaries/ali-zeromq"
+        "host": "https://cdn.npmmirror.com/binaries/ali-zeromq"
       },
       "gdal-async": {
         "host": "https://cdn.npmmirror.com/binaries/node-gdal-async"
