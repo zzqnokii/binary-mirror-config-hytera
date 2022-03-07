@@ -1,4 +1,10 @@
 
+1.40.0 / 2022-03-07
+==================
+
+**others**
+  * [[`bf567e7`](http://github.com/cnpm/binary-mirror-config/commit/bf567e769d1db8c1ef2e083e94a121a30c8f4ff0)] - 📦 NEW: Mirror re2 package (#26) (fengmk2 <<fengmk2@gmail.com>>)
+
 1.39.1 / 2022-02-11
 ==================
 
