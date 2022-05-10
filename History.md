@@ -1,4 +1,10 @@
 
+1.41.0 / 2022-05-10
+==================
+
+**features**
+  * [[`c81b3c6`](http://github.com/cnpm/binary-mirror-config/commit/c81b3c6607ed1ac3612f53fc95b8805b7254c37a)] - feat: mirror keytar (fengmk2 <<fengmk2@gmail.com>>)
+
 1.40.1 / 2022-04-14
 ==================
 
