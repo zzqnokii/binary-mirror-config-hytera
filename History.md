@@ -1,4 +1,10 @@
 
+2.1.1 / 2022-06-11
+==================
+
+**others**
+  * [[`f0d5cc8`](http://github.com/cnpm/binary-mirror-config/commit/f0d5cc864da3c02f136d24064443d0edf475ff72)] - 🐛 FIX: PLAYWRIGHT_DOWNLOAD_HOST typo (fengmk2 <<fengmk2@gmail.com>>)
+
 2.1.0 / 2022-06-11
 ==================
 
