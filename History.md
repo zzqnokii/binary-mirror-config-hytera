@@ -1,4 +1,14 @@
 
+2.1.0 / 2022-06-11
+==================
+
+**features**
+  * [[`073bd28`](http://github.com/cnpm/binary-mirror-config/commit/073bd28252db925cfa2acaf39a6806809c19fdff)] - feat: add ali-usb_ctl binaries config(#29) (ken <<122603020@qq.com>>)
+
+**others**
+  * [[`7c3e485`](http://github.com/cnpm/binary-mirror-config/commit/7c3e485d9613f69e70154d00a27a87b2931083f1)] - 📦 NEW: Use Playwright mirror host (#32) (fengmk2 <<fengmk2@gmail.com>>)
+  * [[`c4bfe34`](http://github.com/cnpm/binary-mirror-config/commit/c4bfe345b8367cd09b1450b78256f38102924120)] - Create codeql-analysis.yml (fengmk2 <<fengmk2@gmail.com>>)
+
 2.0.0 / 2022-06-11
 ==================
 
