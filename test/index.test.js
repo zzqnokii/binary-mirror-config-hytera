@@ -2,7 +2,7 @@
 
 const assert = require('assert');
 const nock = require('nock');
-const fs = require('fs').promises;
+const fs = require('fs/promises');
 const os = require('os');
 const path = require('path');
 const { MirrorConfig, mirrors } = require('..');
@@ -86,7 +86,7 @@ describe('test/index.test.js', () => {
 
     afterEach(async () => {
       console.info('rot: ', root);
-      await fs.rmdir(root, {
+      await fs.rm(root, {
         force: true,
         recursive: true,
       });
