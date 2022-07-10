@@ -1,4 +1,11 @@
 
+2.2.0 / 2022-07-10
+==================
+
+**others**
+  * [[`35f9ee1`](http://github.com/cnpm/binary-mirror-config/commit/35f9ee12f02161acb9189e7b086feee689d6c023)] - 📦 NEW: Use skia-canvas China Mirrors (#33) (fengmk2 <<fengmk2@gmail.com>>)
+  * [[`eae4fba`](http://github.com/cnpm/binary-mirror-config/commit/eae4fba045daa4c2d6c8984e03143f7524122e3d)] - 🤖 TEST: Fix assert (fengmk2 <<fengmk2@gmail.com>>)
+
 2.1.1 / 2022-06-11
 ==================
 
