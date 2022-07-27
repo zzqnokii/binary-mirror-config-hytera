@@ -1,4 +1,12 @@
 
+2.4.0 / 2022-07-27
+==================
+
+**fixes**
+  * [[`61f7540`](http://github.com/cnpm/binary-mirror-config/commit/61f754015be3e97a7bc4fbd043588486643cfd27)] - fix: add semver deps (#36) (Ke Wu <<gemwuu@163.com>>)
+  * [[`53e45ea`](http://github.com/cnpm/binary-mirror-config/commit/53e45eae07a1bddbb30ef82a0f00cf2756c49799)] - fix: add lib to publish files (#35) (Ke Wu <<gemwuu@163.com>>)
+  * [[`6274b65`](http://github.com/cnpm/binary-mirror-config/commit/6274b6539c66987817813dd79e3136f13401e0cb)] - fix: binary mirror compatibity ported from npminstall (#34) (Ke Wu <<gemwuu@163.com>>)
+
 2.2.0 / 2022-07-10
 ==================
 
