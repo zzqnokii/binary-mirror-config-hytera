@@ -1,4 +1,10 @@
 
+2.5.0 / 2022-07-28
+==================
+
+**fixes**
+  * [[`87ee057`](http://github.com/cnpm/binary-mirror-config/commit/87ee0578e2b88ecf89173243fae3aafcf579cb08)] - fix: ungzipDir should not init (#37) (Ke Wu <<gemwuu@163.com>>)
+
 2.4.0 / 2022-07-27
 ==================
 
