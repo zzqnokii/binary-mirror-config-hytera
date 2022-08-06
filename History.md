@@ -1,4 +1,10 @@
 
+2.6.0 / 2022-08-06
+==================
+
+**others**
+  * [[`d66531d`](http://github.com/cnpm/binary-mirror-config/commit/d66531d177a29f13eeebe4b141713a17b0614f05)] - 📦 NEW: Mirror wrtc (#38) (fengmk2 <<fengmk2@gmail.com>>)
+
 2.5.0 / 2022-07-28
 ==================
 
