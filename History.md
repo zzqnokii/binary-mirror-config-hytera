@@ -1,4 +1,10 @@
 
+2.7.0 / 2022-08-25
+==================
+
+**others**
+  * [[`a75a591`](http://github.com/cnpm/binary-mirror-config/commit/a75a5911b0202dd5fdd2409eb510f2d7df6da125)] - 📦 NEW: Mirror better-sqlite3 (#39) (fengmk2 <<fengmk2@gmail.com>>)
+
 2.6.0 / 2022-08-06
 ==================
 
