@@ -1,4 +1,10 @@
 
+2.8.0 / 2022-10-06
+==================
+
+**features**
+  * [[`c0d6b95`](http://github.com/cnpm/binary-mirror-config/commit/c0d6b9528c14d76f11b04c9d3f6510d5486f6d73)] - 📦 NEW: Mirror grpc-tools (#40) (fengmk2 <<fengmk2@gmail.com>>)
+
 2.7.0 / 2022-08-25
 ==================
 
