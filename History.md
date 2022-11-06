@@ -1,4 +1,10 @@
 
+2.9.0 / 2022-11-06
+==================
+
+**features**
+  * [[`68f59d3`](http://github.com/cnpm/binary-mirror-config/commit/68f59d33fd185ab5e029c540c1afa62373603699)] - 📦 NEW: Support cypress mirror env (#41) (fengmk2 <<fengmk2@gmail.com>>)
+
 2.8.0 / 2022-10-06
 ==================
 
