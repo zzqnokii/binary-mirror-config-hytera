@@ -1,4 +1,10 @@
 
+2.9.2 / 2023-03-07
+==================
+
+**fixes**
+  * [[`94a1b79`](http://github.com/cnpm/binary-mirror-config/commit/94a1b7982bdde1dc848b87c553e829d6d6f8b64c)] - fix: fs.exists error (#44) (Ke Wu <<gemwuu@163.com>>)
+
 2.9.0 / 2022-11-06
 ==================
 
