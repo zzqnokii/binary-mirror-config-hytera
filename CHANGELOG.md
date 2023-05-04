@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.10.0](https://github.com/cnpm/binary-mirror-config/compare/v2.9.2...v2.10.0) (2023-05-04)
+
+
+### Features
+
+* Add COREPACK_NPM_REGISTRY env ([#46](https://github.com/cnpm/binary-mirror-config/issues/46)) ([f010757](https://github.com/cnpm/binary-mirror-config/commit/f01075769c878ac8a99c4f871a3c885c104aae03))
+
 ## [2.9.2](https://github.com/cnpm/binary-mirror-config/compare/v2.9.1...v2.9.2) (2023-03-07)
 
 
