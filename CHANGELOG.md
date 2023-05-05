@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.11.0](https://github.com/cnpm/binary-mirror-config/compare/v2.10.0...v2.11.0) (2023-05-05)
+
+
+### Features
+
+* add  PUPPETEER_DOWNLOAD_BASE_URL  for puppeteer@20 ([#47](https://github.com/cnpm/binary-mirror-config/issues/47)) ([dec350b](https://github.com/cnpm/binary-mirror-config/commit/dec350b8595191ec1fb573bc697cb357f1eba951))
+
 ## [2.10.0](https://github.com/cnpm/binary-mirror-config/compare/v2.9.2...v2.10.0) (2023-05-04)
 
 
