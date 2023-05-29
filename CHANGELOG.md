@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.12.0](https://github.com/cnpm/binary-mirror-config/compare/v2.11.0...v2.12.0) (2023-05-29)
+
+
+### Features
+
+* support PRISMA_ENGINES_MIRROR ([#48](https://github.com/cnpm/binary-mirror-config/issues/48)) ([960693d](https://github.com/cnpm/binary-mirror-config/commit/960693d7e5980057965e395dca05aafe44a12e32))
+
 ## [2.11.0](https://github.com/cnpm/binary-mirror-config/compare/v2.10.0...v2.11.0) (2023-05-05)
 
 
