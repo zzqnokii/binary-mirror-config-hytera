@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.13.0](https://github.com/cnpm/binary-mirror-config/compare/v2.12.0...v2.13.0) (2023-07-31)
+
+
+### Features
+
+* mirror libpg-query ([#49](https://github.com/cnpm/binary-mirror-config/issues/49)) ([7d24d15](https://github.com/cnpm/binary-mirror-config/commit/7d24d1591f63d772df9f25d3fb07518c422600f5))
+
 ## [2.12.0](https://github.com/cnpm/binary-mirror-config/compare/v2.11.0...v2.12.0) (2023-05-29)
 
 
@@ -478,4 +485,3 @@
 ==================
 
   * add fsevents
-
